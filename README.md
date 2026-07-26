@@ -1,6 +1,6 @@
 # 🔧 Predictive Maintenance — Engine RUL Estimation
 
-**Egypt Japan University of Science and Technology (E-JUST)**  
+**DEPI - MCIT EGYPT**  
 Data Engineering Capstone Project
 
 ---
